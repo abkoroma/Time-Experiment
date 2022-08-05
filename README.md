@@ -1,3 +1,3 @@
 # Time-Experiment
 
-Experiment with the time class using List, ArrayList, and LinkedList
+Experimenting with the time class using List, ArrayList, and LinkedList
